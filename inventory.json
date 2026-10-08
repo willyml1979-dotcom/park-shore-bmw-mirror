@@ -1,6 +1,6 @@
 {
   "dealership": "Park Shore Bmw",
-  "generated_at": "2026-09-27T00:27:46",
+  "generated_at": "2026-10-08T14:43:48",
   "vehicle_count": 80,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -20,7 +20,9 @@
       "year": 2001,
       "make": "BMW",
       "model": "Z8in North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2001 BMW Z8 ",
@@ -36,7 +38,9 @@
       "year": 2001,
       "make": "BMW",
       "model": "Z8",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2001 BMW Z8 ",
@@ -52,7 +56,9 @@
       "year": 2001,
       "make": "BMW",
       "model": "Z8",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2014 BMW 750in North Vancouver",
@@ -69,7 +75,9 @@
       "year": 2014,
       "make": "BMW",
       "model": "750in North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2014 BMW 750 ",
@@ -85,7 +93,9 @@
       "year": 2014,
       "make": "BMW",
       "model": "750",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2014 BMW 750 ",
@@ -101,7 +111,9 @@
       "year": 2014,
       "make": "BMW",
       "model": "750",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2016 BMW 228i Xdrive Cabrioletin North Vancouver",
@@ -118,7 +130,9 @@
       "year": 2016,
       "make": "BMW",
       "model": "228i Xdrive Cabrioletin North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2016 BMW 228i ",
@@ -134,7 +148,9 @@
       "year": 2016,
       "make": "BMW",
       "model": "228i",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2016 BMW 228i ",
@@ -150,7 +166,9 @@
       "year": 2016,
       "make": "BMW",
       "model": "228i",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2016 BMW 228i ",
@@ -166,7 +184,9 @@
       "year": 2016,
       "make": "BMW",
       "model": "228i",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2017 BMW 750 Xdrivein North Vancouver",
@@ -183,7 +203,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "750 Xdrivein North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2017 BMW 750 ",
@@ -199,7 +221,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "750",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2017 BMW 750 ",
@@ -215,7 +239,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "750",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2018 Mercedes-Benz C 63 AMG Sedanin North Vancouver",
@@ -232,13 +258,16 @@
       "year": 2018,
       "make": "Mercedes-Benz",
       "model": "C 63 AMG Sedanin North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 BMW X5 Xdrive40iin North Vancouver",
       "vin": "5UXCR6C58KLK84832",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive40iin North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/50be19f0c2aa.html",
       "source_url": "https://www.parkshorebmw.com/used/2019-BMW-X5-id14362768.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2019-BMW-X5-id14362768.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -248,8 +277,10 @@
       "odometer_km": 100852,
       "year": 2019,
       "make": "BMW",
-      "model": "X5 Xdrive40iin North Vancouver",
-      "condition": "used"
+      "model": "X5",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 BMW X5 ",
@@ -265,7 +296,9 @@
       "year": 2019,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 BMW i8 Roadsterin North Vancouver",
@@ -282,7 +315,9 @@
       "year": 2019,
       "make": "BMW",
       "model": "i8 Roadsterin North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 BMW i8 ",
@@ -298,7 +333,9 @@
       "year": 2019,
       "make": "BMW",
       "model": "i8",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 BMW X5 ",
@@ -314,7 +351,9 @@
       "year": 2019,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 BMW i8 ",
@@ -330,13 +369,16 @@
       "year": 2019,
       "make": "BMW",
       "model": "i8",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Honda Civic Type Rin North Vancouver",
       "vin": "SHHFK8G3XMU300248",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Type Rin North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/ea6e2f099537.html",
       "source_url": "https://www.parkshorebmw.com/used/2021-Honda-Civic-id14119134.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2021-Honda-Civic-id14119134.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -346,8 +388,10 @@
       "odometer_km": 6355,
       "year": 2021,
       "make": "Honda",
-      "model": "Civic Type Rin North Vancouver",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Honda Civic ",
@@ -363,7 +407,9 @@
       "year": 2021,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Honda Civic ",
@@ -379,7 +425,9 @@
       "year": 2021,
       "make": "Honda",
       "model": "Civic",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW 330e Xdrive Sedanin North Vancouver",
@@ -396,7 +444,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "330e Xdrive Sedanin North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW 330e ",
@@ -412,7 +462,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "330e",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW M235i Xdrive Gran Coupein North Vancouver",
@@ -429,7 +481,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "M235i Xdrive Gran Coupein North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW M235i ",
@@ -445,7 +499,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "M235i",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW M4 Competitionin North Vancouver",
@@ -462,7 +518,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "M4 Competitionin North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW M4 ",
@@ -478,13 +536,16 @@
       "year": 2022,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X5 Xdrive45ein North Vancouver",
       "vin": "5UXTA6C07N9L92016",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Xdrive45ein North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/62c90f012bbe.html",
       "source_url": "https://www.parkshorebmw.com/used/2022-BMW-X5-id14308428.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2022-BMW-X5-id14308428.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -494,8 +555,10 @@
       "odometer_km": 53720,
       "year": 2022,
       "make": "BMW",
-      "model": "X5 Xdrive45ein North Vancouver",
-      "condition": "used"
+      "model": "X5",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X5 ",
@@ -511,13 +574,16 @@
       "year": 2022,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X7 Xdrive40iin North Vancouver",
       "vin": "5UXCW2C08N9L48584",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive40iin North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/6fecb4b40536.html",
       "source_url": "https://www.parkshorebmw.com/used/2022-BMW-X7-id14150420.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2022-BMW-X7-id14150420.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -527,8 +593,10 @@
       "odometer_km": 69113,
       "year": 2022,
       "make": "BMW",
-      "model": "X7 Xdrive40iin North Vancouver",
-      "condition": "used"
+      "model": "X7",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X7 ",
@@ -544,7 +612,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X7",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW 330e ",
@@ -560,7 +630,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "330e",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW M235i ",
@@ -576,7 +648,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "M235i",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW M4 ",
@@ -592,7 +666,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X5 ",
@@ -608,7 +684,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X7 ",
@@ -624,7 +702,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X7",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 BMW 330e Xdrive Sedanin North Vancouver",
@@ -641,7 +721,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "330e Xdrive Sedanin North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 BMW 330e ",
@@ -657,7 +739,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "330e",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 BMW M850i Xdrive Gran Coupein North Vancouver",
@@ -674,7 +758,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "M850i Xdrive Gran Coupein North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 BMW M850i ",
@@ -690,7 +776,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "M850i",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 BMW 330e ",
@@ -706,7 +794,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "330e",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 BMW M850i ",
@@ -722,13 +812,16 @@
       "year": 2023,
       "make": "BMW",
       "model": "M850i",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 Xdrive28iin North Vancouver",
       "vin": "WBX73EF03R5Z72060",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive28iin North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/8cd68d87847b.html",
       "source_url": "https://www.parkshorebmw.com/used/2024-BMW-X1-id14416478.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2024-BMW-X1-id14416478.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -738,8 +831,10 @@
       "odometer_km": 13492,
       "year": 2024,
       "make": "BMW",
-      "model": "X1 Xdrive28iin North Vancouver",
-      "condition": "used"
+      "model": "X1",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 ",
@@ -755,13 +850,16 @@
       "year": 2024,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X6 Xdrive40iin North Vancouver",
       "vin": "5UX33EX01R9U93797",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Xdrive40iin North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/5b10520b53c0.html",
       "source_url": "https://www.parkshorebmw.com/used/2024-BMW-X6-id14150419.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2024-BMW-X6-id14150419.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -771,14 +869,17 @@
       "odometer_km": 48822,
       "year": 2024,
       "make": "BMW",
-      "model": "X6 Xdrive40iin North Vancouver",
-      "condition": "used"
+      "model": "X6",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X6 Xdrive40iin North Vancouver",
       "vin": "5UX33EX03R9U70926",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive40iin North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/ecbdd2b59851.html",
       "source_url": "https://www.parkshorebmw.com/used/2024-BMW-X6-id14410579.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2024-BMW-X6-id14410579.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -788,8 +889,10 @@
       "odometer_km": 6196,
       "year": 2024,
       "make": "BMW",
-      "model": "X6 Xdrive40iin North Vancouver",
-      "condition": "used"
+      "model": "X6",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X6 ",
@@ -805,13 +908,16 @@
       "year": 2024,
       "make": "BMW",
       "model": "X6",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X6 M Competitionin North Vancouver",
       "vin": "5YM23ET01R9U51592",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "M Competitionin North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/27aae908bf27.html",
       "source_url": "https://www.parkshorebmw.com/used/2024-BMW-X6_M-id13592730.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2024-BMW-X6_M-id13592730.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -821,14 +927,17 @@
       "odometer_km": 40998,
       "year": 2024,
       "make": "BMW",
-      "model": "X6 M Competitionin North Vancouver",
-      "condition": "used"
+      "model": "X6",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X6 M ",
       "vin": "5YM23ET01R9U51592",
       "stock": 13592730,
       "color": "Grey",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/74c9048d3ee6.html",
       "source_url": "https://www.parkshorebmw.com/used/2024-BMW-X6_M.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2024-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -837,14 +946,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "BMW",
-      "model": "X6 M",
-      "condition": "used"
+      "model": "X6",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X7 M60i Xdrivein North Vancouver",
       "vin": "5UX33EM09R9T20355",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "M60i Xdrivein North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/ffc46bdf2276.html",
       "source_url": "https://www.parkshorebmw.com/used/2024-BMW-X7-id14302120.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2024-BMW-X7-id14302120.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -854,8 +966,10 @@
       "odometer_km": 31155,
       "year": 2024,
       "make": "BMW",
-      "model": "X7 M60i Xdrivein North Vancouver",
-      "condition": "used"
+      "model": "X7",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X7 ",
@@ -871,7 +985,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X7",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW XMin North Vancouver",
@@ -888,7 +1004,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "XMin North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW XM ",
@@ -904,7 +1022,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "XM",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 ",
@@ -920,7 +1040,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X6 ",
@@ -936,13 +1058,16 @@
       "year": 2024,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X6 M ",
       "vin": "5YM23ET01R9U51592",
       "stock": 13592730,
       "color": "Grey",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/new/74c9048d3ee6.html",
       "source_url": "https://www.parkshorebmw.com/used/2024-BMW-X6_M.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2024-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -951,8 +1076,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "BMW",
-      "model": "X6 M",
-      "condition": "new"
+      "model": "X6",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X7 ",
@@ -968,7 +1095,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X7",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 BMW XM ",
@@ -984,7 +1113,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "XM",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 BMW M5 Sedanin North Vancouver",
@@ -1001,7 +1132,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "M5 Sedanin North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 BMW M5 ",
@@ -1017,13 +1150,16 @@
       "year": 2025,
       "make": "BMW",
       "model": "M5",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X1 M35i Xdrivein North Vancouver",
       "vin": "WBX13EF02S5265821",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "M35i Xdrivein North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/3dffda1dd4f4.html",
       "source_url": "https://www.parkshorebmw.com/used/2025-BMW-X1-id13976130.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2025-BMW-X1-id13976130.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1033,14 +1169,17 @@
       "odometer_km": 16683,
       "year": 2025,
       "make": "BMW",
-      "model": "X1 M35i Xdrivein North Vancouver",
-      "condition": "used"
+      "model": "X1",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X1 Xdrive28iin North Vancouver",
       "vin": "WBX73EF08S5394415",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive28iin North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/931d9d48b1af.html",
       "source_url": "https://www.parkshorebmw.com/used/2025-BMW-X1-id14317745.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2025-BMW-X1-id14317745.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1050,14 +1189,17 @@
       "odometer_km": 7980,
       "year": 2025,
       "make": "BMW",
-      "model": "X1 Xdrive28iin North Vancouver",
-      "condition": "used"
+      "model": "X1",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X1 M35i Xdrivein North Vancouver",
       "vin": "WBX13EF00S5343013",
       "stock": "NUMBER",
       "color": "Storm Bay Metallic",
+      "trim": "M35i Xdrivein North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/8f790fe90c12.html",
       "source_url": "https://www.parkshorebmw.com/used/2025-BMW-X1-id14362769.html",
       "dealer_url": "https://www.parkshorebmw.com/used/2025-BMW-X1-id14362769.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1067,8 +1209,10 @@
       "odometer_km": 6212,
       "year": 2025,
       "make": "BMW",
-      "model": "X1 M35i Xdrivein North Vancouver",
-      "condition": "used"
+      "model": "X1",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X1 ",
@@ -1084,7 +1228,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 BMW M5 ",
@@ -1100,7 +1246,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "M5",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X1 ",
@@ -1116,7 +1264,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Seriesin North Vancouver",
@@ -1130,11 +1280,14 @@
       "year": 2026,
       "make": "BMW",
       "model": "7 Seriesin North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Series PHEVin North Vancouver",
       "stock": "NUMBER",
+      "trim": "PHEVin North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/eedcb18427b0.html",
       "source_url": "https://www.parkshorebmw.com/new/2026-BMW-7_Series_PHEV-id478049.html",
       "dealer_url": "https://www.parkshorebmw.com/new/2026-BMW-7_Series_PHEV-id478049.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1143,8 +1296,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "7 Series PHEVin North Vancouver",
-      "condition": "used"
+      "model": "7 Series",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M5in North Vancouver",
@@ -1158,7 +1313,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M5in North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X7in North Vancouver",
@@ -1172,7 +1329,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X7in North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i7in North Vancouver",
@@ -1186,7 +1345,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i7in North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Seriesin North Vancouver",
@@ -1200,11 +1361,14 @@
       "year": 2026,
       "make": "BMW",
       "model": "7 Seriesin North Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Series PHEVin North Vancouver",
       "stock": "NUMBER",
+      "trim": "PHEVin North Vancouver",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/new/eedcb18427b0.html",
       "source_url": "https://www.parkshorebmw.com/new/2026-BMW-7_Series_PHEV-id478049.html",
       "dealer_url": "https://www.parkshorebmw.com/new/2026-BMW-7_Series_PHEV-id478049.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1213,8 +1377,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "7 Series PHEVin North Vancouver",
-      "condition": "new"
+      "model": "7 Series",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M5in North Vancouver",
@@ -1228,7 +1394,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M5in North Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X7in North Vancouver",
@@ -1242,7 +1410,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X7in North Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i7in North Vancouver",
@@ -1256,7 +1426,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i7in North Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5in North Vancouver",
@@ -1270,7 +1442,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5in North Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5in North Vancouver",
@@ -1284,7 +1458,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5in North Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     }
   ]
 }
