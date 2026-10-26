@@ -1,7 +1,7 @@
 {
   "dealership": "Park Shore Bmw",
-  "generated_at": "2026-10-25T15:21:13",
-  "vehicle_count": 82,
+  "generated_at": "2026-10-26T00:50:47",
+  "vehicle_count": 80,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -282,17 +282,6 @@
     },
     {
       "name": "2023 BMW 330e Xdrive Sedanin North Vancouver",
-      "vin": "WBA33FS01PFN40644",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/db79f233ab60.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "330e Xdrive Sedanin North Vancouver",
-      "condition": "used",
-      "price": 44900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 BMW 330e Xdrive Sedanin North Vancouver",
       "vin": "WBA33FS0XPFP26196",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/b7247efd1588.html",
       "year": 2023,
@@ -432,17 +421,6 @@
       "model": "X3",
       "condition": "used",
       "price": 50900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW X5 M60iin North Vancouver",
-      "vin": "5UX33EU09R9S51635",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/ae6c8071fce4.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "used",
-      "price": 89900.0,
       "price_currency": "CAD"
     },
     {
