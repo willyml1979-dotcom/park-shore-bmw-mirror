@@ -1,6 +1,6 @@
 # Park Shore BMW
 
- dealership in North Vancouver. AI-readable inventory mirror, about 99 vehicles.
+ dealership in North Vancouver. AI-readable inventory mirror, about 100 vehicles.
 
 - Official website: https://www.parkshorebmw.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/

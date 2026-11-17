@@ -1,7 +1,7 @@
 {
   "dealership": "Park Shore Bmw",
-  "generated_at": "2026-11-17T11:26:20",
-  "vehicle_count": 99,
+  "generated_at": "2026-11-17T11:31:38",
+  "vehicle_count": 100,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -75,6 +75,14 @@
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/1fdf8d72752c.html",
       "condition": "used",
       "price": 54900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Vehicles for Salein North Vancouver",
+      "vin": "5UXKS4C55F0N06870",
+      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/new/eecec31de9f9.html",
+      "condition": "new",
+      "price": 24900.0,
       "price_currency": "CAD"
     },
     {

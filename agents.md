@@ -7,7 +7,7 @@ Park Shore BMW is a  dealership in North Vancouver. This site is an AI-readable 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/ and https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/new/ (about 99 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/ and https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/new/ (about 100 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/llms.txt
