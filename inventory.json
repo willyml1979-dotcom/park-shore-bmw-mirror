@@ -1,7 +1,7 @@
 {
   "dealership": "Park Shore Bmw",
-  "generated_at": "2026-11-17T11:31:38",
-  "vehicle_count": 100,
+  "generated_at": "2026-11-18T02:14:00",
+  "vehicle_count": 99,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -75,6 +75,14 @@
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/1fdf8d72752c.html",
       "condition": "used",
       "price": 54900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW Z4 2026 for salein North Vancouver",
+      "vin": "WBAHF9C06TWY53888",
+      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/564f247826a6.html",
+      "condition": "used",
+      "price": 99900.0,
       "price_currency": "CAD"
     },
     {
@@ -336,17 +344,6 @@
       "model": "M4",
       "condition": "used",
       "price": 88900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 BMW X6 Xdrive40iin North Vancouver",
-      "vin": "5UXCY6C08N9N16399",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/d344f93eb3ce.html",
-      "year": 2022,
-      "make": "BMW",
-      "model": "X6",
-      "condition": "used",
-      "price": 59900.0,
       "price_currency": "CAD"
     },
     {
@@ -903,17 +900,6 @@
       "year": 2026,
       "make": "BMW",
       "model": "Z4 M40i Roadsterin North Vancouver",
-      "condition": "used",
-      "price": 99900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW Z4 ",
-      "vin": "WBAHF9C06TWY53888",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/564f247826a6.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "Z4",
       "condition": "used",
       "price": 99900.0,
       "price_currency": "CAD"
