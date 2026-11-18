@@ -1,6 +1,6 @@
 {
   "dealership": "Park Shore Bmw",
-  "generated_at": "2026-11-18T02:14:00",
+  "generated_at": "2026-11-18T02:17:38",
   "vehicle_count": 99,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -83,6 +83,14 @@
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/564f247826a6.html",
       "condition": "used",
       "price": 99900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Vehicles for Salein North Vancouver",
+      "vin": "5UXKS4C55F0N06870",
+      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/new/00f2d93b8d91.html",
+      "condition": "new",
+      "price": 24900.0,
       "price_currency": "CAD"
     },
     {
@@ -178,17 +186,6 @@
       "make": "BMW",
       "model": "228i",
       "condition": "used",
-      "price": 25900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 BMW 228i ",
-      "vin": "WBA1L9C59GV767928",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/new/00f2d93b8d91.html",
-      "year": 2016,
-      "make": "BMW",
-      "model": "228i",
-      "condition": "new",
       "price": 25900.0,
       "price_currency": "CAD"
     },
