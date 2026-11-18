@@ -1,7 +1,7 @@
 {
   "dealership": "Park Shore Bmw",
-  "generated_at": "2026-11-18T11:08:41",
-  "vehicle_count": 107,
+  "generated_at": "2026-11-18T11:13:33",
+  "vehicle_count": 106,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -997,16 +997,6 @@
       "model": "X5",
       "condition": "new",
       "price": 96345.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X7in North Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/new/84173e4ef9b3.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X7in North Vancouver",
-      "condition": "new",
-      "price": 111745.0,
       "price_currency": "CAD"
     },
     {
