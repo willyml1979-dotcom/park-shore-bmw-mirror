@@ -1,7 +1,7 @@
 {
   "dealership": "Park Shore Bmw",
-  "generated_at": "2026-11-18T11:13:33",
-  "vehicle_count": 106,
+  "generated_at": "2026-11-18T21:37:13",
+  "vehicle_count": 105,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -70,6 +70,30 @@
       "price_currency": "CAD"
     },
     {
+      "name": "BMW M4 2022 for salein North Vancouver",
+      "vin": "WBS33BA08NCK35890",
+      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/669dd37ebbcf.html",
+      "condition": "used",
+      "price": 86900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X7 2022 for salein North Vancouver",
+      "vin": "5UXCW2C08N9L48584",
+      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/f098f427c666.html",
+      "condition": "used",
+      "price": 63900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 330e 2023 for salein North Vancouver",
+      "vin": "WBA33FS04PFP25772",
+      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/b3e295592027.html",
+      "condition": "used",
+      "price": 40900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "BMW 330i 2023 for salein North Vancouver",
       "vin": "WBA83FF02PFN68971",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/034c45201713.html",
@@ -94,6 +118,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "BMW M850i 2023 for salein North Vancouver",
+      "vin": "WBAGV8C05PCK97203",
+      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/93528ccb7d60.html",
+      "condition": "used",
+      "price": 76900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "BMW X1 2023 for salein North Vancouver",
       "vin": "WBX73EF05P5W01463",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/9695f6c7771b.html",
@@ -107,6 +139,38 @@
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/8d7c48cb32ad.html",
       "condition": "used",
       "price": 63900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X1 2024 for salein North Vancouver",
+      "vin": "WBX13EF09R5Y76519",
+      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/cffbb52ba4a1.html",
+      "condition": "used",
+      "price": 49900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X6 2024 for salein North Vancouver",
+      "vin": "5UX33EX09R9S89863",
+      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/540fa1255243.html",
+      "condition": "used",
+      "price": 79900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X6 M 2024 for salein North Vancouver",
+      "vin": "5YM23ET01R9U51592",
+      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/74c9048d3ee6.html",
+      "condition": "used",
+      "price": 124900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X7 2024 for salein North Vancouver",
+      "vin": "5UX33EM09R9T20355",
+      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/c0c3c3254fe2.html",
+      "condition": "used",
+      "price": 107900.0,
       "price_currency": "CAD"
     },
     {
@@ -325,17 +389,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 BMW M235i Xdrive Gran Coupein North Vancouver",
-      "vin": "WBA13AL02N7K39266",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/f10c9aa32907.html",
-      "year": 2022,
-      "make": "BMW",
-      "model": "M235i Xdrive Gran Coupein North Vancouver",
-      "condition": "used",
-      "price": 38900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 BMW M4 Competitionin North Vancouver",
       "vin": "WBS33BA08NCK35890",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/05a476f4f782.html",
@@ -347,17 +400,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 BMW M4 ",
-      "vin": "WBS33BA08NCK35890",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/669dd37ebbcf.html",
-      "year": 2022,
-      "make": "BMW",
-      "model": "M4",
-      "condition": "used",
-      "price": 88900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 BMW X7 Xdrive40iin North Vancouver",
       "vin": "5UXCW2C08N9L48584",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/6fecb4b40536.html",
@@ -365,18 +407,7 @@
       "make": "BMW",
       "model": "X7",
       "condition": "used",
-      "price": 64900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 BMW X7 ",
-      "vin": "5UXCW2C08N9L48584",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/f098f427c666.html",
-      "year": 2022,
-      "make": "BMW",
-      "model": "X7",
-      "condition": "used",
-      "price": 64900.0,
+      "price": 63900.0,
       "price_currency": "CAD"
     },
     {
@@ -399,17 +430,6 @@
       "model": "330e Xdrive Sedanin North Vancouver",
       "condition": "used",
       "price": 40900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 BMW 330e ",
-      "vin": "WBA33FS0XPFP26196",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/b3e295592027.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "330e",
-      "condition": "used",
-      "price": 42900.0,
       "price_currency": "CAD"
     },
     {
@@ -452,17 +472,6 @@
       "year": 2023,
       "make": "BMW",
       "model": "M850i Xdrive Gran Coupein North Vancouver",
-      "condition": "used",
-      "price": 76900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 BMW M850i ",
-      "vin": "WBAGV8C05PCK97203",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/93528ccb7d60.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "M850i",
       "condition": "used",
       "price": 76900.0,
       "price_currency": "CAD"
@@ -578,17 +587,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW X1 ",
-      "vin": "WBX73EF03R5Z72060",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/cffbb52ba4a1.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "used",
-      "price": 43900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 BMW X3 Xdrive30iin North Vancouver",
       "vin": "5UX53DP02R9W05980",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/6b71dc39e00c.html",
@@ -633,17 +631,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW X6 ",
-      "vin": "5UX33EX09R9S89863",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/540fa1255243.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X6",
-      "condition": "used",
-      "price": 79900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 BMW X6 M Competitionin North Vancouver",
       "vin": "5YM23ET01R9U51592",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/27aae908bf27.html",
@@ -655,31 +642,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW X6 M ",
-      "vin": "5YM23ET01R9U51592",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/74c9048d3ee6.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X6",
-      "condition": "used",
-      "price": 124900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 BMW X7 M60i Xdrivein North Vancouver",
       "vin": "5UX33EM09R9T20355",
       "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/ffc46bdf2276.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X7",
-      "condition": "used",
-      "price": 107900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW X7 ",
-      "vin": "5UX33EM09R9T20355",
-      "url": "https://willyml1979-dotcom.github.io/park-shore-bmw-mirror/used/c0c3c3254fe2.html",
       "year": 2024,
       "make": "BMW",
       "model": "X7",
